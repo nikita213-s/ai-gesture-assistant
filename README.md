@@ -22,8 +22,14 @@ This project combines **computer vision**, **machine learning**, and **human–c
 ## 🖥️ Screenshots
 
 <img width="1919" height="330" alt="image" src="https://github.com/user-attachments/assets/ffacf93f-fac6-44d1-8943-a0901f247755" />
+---
 <img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/ffe61bf0-6935-4ab2-97ee-d69c858cd6d2" />
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/7d4ec239-405e-44c8-80fc-923faa2e0be7" />
+---
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/96e23368-7567-4aeb-b84e-561d11e260d4" />
+---
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/a2a95ea6-f952-4d63-985f-43c2f666ac9f" />
+
+
 
 
 
